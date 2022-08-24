@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/tobi/Documents/NetBeansProjects/Sma/src/view/ListaNewView.java</file>
+            <file>file:/C:/Users/tobi/Documents/NetBeansProjects/Sma/src/view/DespesasSearchView.java</file>
+            <file>file:/C:/Users/tobi/Documents/NetBeansProjects/Sma/src/view/ColaboradorView.java</file>
+            <file>file:/C:/Users/tobi/Documents/NetBeansProjects/Sma/src/model/Assistidos.java</file>
+            <file>file:/C:/Users/tobi/Documents/NetBeansProjects/Sma/src/view/DespesasInsetView.java</file>
+            <file>file:/C:/Users/tobi/Documents/NetBeansProjects/Sma/src/dao/LoginDao.java</file>
+            <file>file:/C:/Users/tobi/Documents/NetBeansProjects/Sma/src/view/LoginEditView.java</file>
+            <file>file:/C:/Users/tobi/Documents/NetBeansProjects/Sma/src/view/AssistidoSearchView.java</file>
+            <file>file:/C:/Users/tobi/Documents/NetBeansProjects/Sma/src/model/Voluntario.java</file>
+            <file>file:/C:/Users/tobi/Documents/NetBeansProjects/Sma/src/view/AddProjetoView.java</file>
+            <file>file:/C:/Users/tobi/Documents/NetBeansProjects/Sma/src/view/DoacaoEditView.java</file>
+            <file>file:/C:/Users/tobi/Documents/NetBeansProjects/Sma/src/controller/ListaController.java</file>
+            <file>file:/C:/Users/tobi/Documents/NetBeansProjects/Sma/src/view/PrincipalViewUser.java</file>
+            <file>file:/C:/Users/tobi/Documents/NetBeansProjects/Sma/src/dao/ListaDao.java</file>
+            <file>file:/C:/Users/tobi/Documents/NetBeansProjects/Sma/src/view/LoginInsetView.java</file>
+            <file>file:/C:/Users/tobi/Documents/NetBeansProjects/Sma/src/model/Lista.java</file>
+            <file>file:/C:/Users/tobi/Documents/NetBeansProjects/Sma/src/view/ProjetoInsetView.java</file>
+            <file>file:/C:/Users/tobi/Documents/NetBeansProjects/Sma/src/view/ListView.java</file>
+            <file>file:/C:/Users/tobi/Documents/NetBeansProjects/Sma/src/view/ListaView.java</file>
+            <file>file:/C:/Users/tobi/Documents/NetBeansProjects/Sma/src/view/AmparatosAView.java</file>
+            <file>file:/C:/Users/tobi/Documents/NetBeansProjects/Sma/src/model/Doador.java</file>
+            <file>file:/C:/Users/tobi/Documents/NetBeansProjects/Sma/src/dao/DoacaoDao.java</file>
+            <file>file:/C:/Users/tobi/Documents/NetBeansProjects/Sma/src/view/DoadorInsetView.java</file>
+        </group>
+    </open-files>
+</project-private>
